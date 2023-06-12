@@ -1,0 +1,10 @@
+* font-discovery
+
+Find and list system font files
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/shinmera/font-discovery.git   |
+| commit  | 5101ca7  |
+| systems | font-discovery |
+|---------+-------------------------------------------|
+
