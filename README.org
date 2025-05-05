@@ -4,6 +4,6 @@ Find and list system font files
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/shinmera/font-discovery.git |
-| commit  | 02b60f9                                            |
+| commit  | 2918c42                                            |
 | systems | font-discovery                                     |
 |---------+----------------------------------------------------|
