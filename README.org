@@ -3,7 +3,7 @@
 Find and list system font files
 
 |---------+----------------------------------------------------|
-| source  | git:https://github.com/shinmera/font-discovery.git |
-| commit  | 7e0d433                                            |
+| source  | git:https://codeberg.org/shinmera/font-discovery.git |
+| commit  | 0000000                                            |
 | systems | font-discovery                                     |
 |---------+----------------------------------------------------|
