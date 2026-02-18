@@ -4,6 +4,6 @@ Find and list system font files
 
 |---------+----------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/font-discovery.git |
-| commit  | 0000000                                            |
+| commit  | fcfde09                                            |
 | systems | font-discovery                                     |
 |---------+----------------------------------------------------|
