@@ -4,7 +4,7 @@ Find and list system font files
 
 |---------+------------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/font-discovery.git |
-| commit  | ede5fa3                                              |
+| commit  | fc25771                                              |
 | systems | font-discovery                                       |
 |---------+------------------------------------------------------|
  
